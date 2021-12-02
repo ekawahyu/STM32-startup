@@ -10,6 +10,10 @@ Added all Controller out of 1.9.0 : 2017-08-25
 Added all Controller out of 1.9.0 : 2017-08-25
 -   deactivated call to *__libc_init_array*
 
+## STM32Cube-F4
+Added all Controller out of 1.9.0 : 2021-12-01
+-   deactivated call to *__libc_init_array*
+
 ## STM32Cube-L0
 Added all Controller out of Version 1.10.0 : 2017-08-25
 -   deactivated call to *__libc_init_array*
